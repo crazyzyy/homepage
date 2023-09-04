@@ -1,5 +1,5 @@
-# Yaoyu Zhang \
-## zhyy.sjtu@sjtu.edu.cn \
+# Yaoyu Zhang 
+### zhyy.sjtu@sjtu.edu.cn 
 ### 324 No.5 Science Buildings, Shanghai Jiao Tong University
 =======
 # Academic experience #
