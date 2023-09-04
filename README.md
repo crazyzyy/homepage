@@ -23,12 +23,11 @@
 #### &ensp; Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China
 
 ## Research Interests
-### Theory of Deep Learning
-#### •	Nonlinear training dynamics
-#### •	Hierarchical structure of loss landscape
-#### •	Implicit regularization
+### Deep Learning Theory
+#### •	Condensation phenomenon
+#### •	Loss landscape, generalization & training dynamics
 ### Computational Neuroscience
-#### •	Principle of brain-like learning systems
+#### •	Robustness of cortical circuits
 
 
 ## Publications
