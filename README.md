@@ -1,10 +1,10 @@
-## Yaoyu Zhang 
+# Yaoyu Zhang 
 #### zhyy.sjtu@sjtu.edu.cn 
 #### 324 No.5 Science Buildings, Shanghai Jiao Tong University
 
 ## Academic experience
 ### • Tenure-track Associate Professor, 2020. 9 – 
-#### &ensp; Institute of Natural Sciences and School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai
+#### &ensp; Institute of Natural Sciences&School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai
 
 ### • Member, 2019. 9 – 2020. 7
 #### &ensp; School of Mathematics, Institute for Advanced Study, Princeton, New Jersey
@@ -32,26 +32,29 @@
 
 ## Publications
 ### Highlights in deep learning theory
-### **Optimistic Estimate**
+### **Optimistic Estimate (generalization)**
 #### **Optimistic Estimate**: estimate of the smallest possible sample size for recovering a target for nonlinear regression.
 #### **[Short paper]** **Yaoyu Zhang***, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, Optimistic Estimate Uncovers the Potential of Nonlinear Models. arXiv:2307.08921, (2023). [[web]](https://arxiv.org/abs/2307.08921) [[pdf]](https://arxiv.org/pdf/2307.08921)
 #### *A conceptual leap from long paper. Establish optimistic estimate and estimate the optimistic sample size for deep models, matrix factorization model and DNNs.*
-#### **[Long paper]** **Yaoyu Zhang***, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, Linear Stability Hypothesis and Rank Stratification for Nonlinear Models. 	arXiv:2211.11623, (2022). [[web]](https://arxiv.org/abs/2211.11623) [[pdf]](https://arxiv.org/pdf/2211.11623)
+#### **[Long paper]** **Yaoyu Zhang***, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, Linear Stability Hypothesis and Rank Stratification for Nonlinear Models. arXiv:2211.11623, (2022). [[web]](https://arxiv.org/abs/2211.11623) [[pdf]](https://arxiv.org/pdf/2211.11623)
 #### *An early manuscript containing many detailed technical results, but lack the key concept of optimistic estimate.*
+#### **[Local recovery guarantee at overparameterization]** Leyang Zhang, **Yaoyu Zhang**, Tao Luo, Structure and Gradient Dynamics Near Global Minima of Two-layer Neural Networks. arXiv:2309.00508, (2023). [[web]](https://arxiv.org/abs/2309.00508) [[pdf]](https://arxiv.org/pdf/2309.00508)
 
-### **Embedding Principle**
-#### **Embedding Principle**: loss landscape of any DNN contains all critical points of all narrower DNNs.
+### **Embedding Principle (loss landscape)**
+#### **Embedding Principle (in width)**: loss landscape of any DNN contains all critical points of all narrower DNNs.
 #### **[Short paper]** **Yaoyu Zhang***, Zhongwang Zhang, Tao Luo, Zhi-Qin John Xu*, Embedding Principle of Loss Landscape of Deep Neural Networks. NeurIPS 2021 spotlight. [[web]](https://arxiv.org/abs/2105.14573) [[pdf]](https://arxiv.org/pdf/2105.14573)
 #### *Prove the Embedding Principle by the multi-step compositional embedding and unravel its practical implications to optimization, training&generalization and pruning.*
 #### **[Long paper]** **Yaoyu Zhang***, Yuqing Li, Zhongwang Zhang, Tao Luo, Zhi-Qin John Xu*, Embedding Principle: a hierarchical structure of loss landscape of deep neural networks. 	arXiv:2111.15527, (2021). [[web]](https://arxiv.org/abs/2111.15527) [[pdf]](https://arxiv.org/pdf/2111.15527)
 #### *Extend the results in short paper, formally define the critical embedding and discover a wider class of general compatible critical embeddings.*
+#### **[Embedding Principle in depth]** Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, **Yaoyu Zhang***, Embedding Principle in Depth for the Loss Landscape Analysis of Deep Neural Networks, 	arXiv:2205.13283, (2022). [[web]](https://arxiv.org/abs/2205.13283) [[pdf]](https://arxiv.org/pdf/2205.13283)
+#### *Establish the Embedding Principle in depth.*
 
-### **Phase diagram**
+### **Phase diagram (dynamics)**
 #### **Phase diagram**: a diagram showing the transition between linear (NTK/kernel/lazy) regime, critical (mean-field) regime or condensed regime depending on initialization hyperparameters for NNs at the infinite-width limit.
 #### **[Two-layer]** Tao Luo#, Zhi-Qin John Xu#, Zheng Ma, **Yaoyu Zhang***,  Phase diagram for two-layer ReLU neural networks at infinite-width limit, Journal of Machine Learning Research (JMLR) 22(71):1−47, (2021) [[web]](https://arxiv.org/abs/2007.07497) [[pdf]](https://arxiv.org/pdf/2007.07497)
 #### *A map for realizing different training and implicit regularization effect.*
 
-### **Frequency Principle**
+### **Frequency Principle (dynamics&implicit bias)**
 #### **Frequency Principle**: DNNs often learn target function from low to high frequencies. 
 #### **[First paper]** Zhiqin Xu, **Yaoyu Zhang**, Yanyang Xiao, Training Behavior of Deep Neural Network in Frequency Domain, International Conference on Neural Information Processing (ICONIP), pp. 264-274, 2019. (arXiv:1807.01251, Jul 2018) [[web]](https://arxiv.org/abs/1807.01251) [[pdf]](https://arxiv.org/pdf/1807.01251)
 #### *Empirically discovering the Frequency Principle in simple datasets (specifically 1-d sythetic data).*
