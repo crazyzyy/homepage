@@ -32,6 +32,13 @@
 
 ## Publications
 ### Highlights in deep learning theory
+### **Optimistic Estimate**
+#### **Optimistic Estimate**: estimate of the smallest possible sample size for recovering a target for nonlinear regression.
+#### **[Short paper]** **Yaoyu Zhang***, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, Optimistic Estimate Uncovers the Potential of Nonlinear Models. arXiv:2307.08921, (2023). [[web]](https://arxiv.org/abs/2307.08921) [[pdf]](https://arxiv.org/pdf/2307.08921)
+#### *A conceptual leap from long paper. Establish optimistic estimate and estimate the optimistic sample size for deep models, matrix factorization model and DNNs.*
+#### **[Long paper]** **Yaoyu Zhang***, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, Linear Stability Hypothesis and Rank Stratification for Nonlinear Models. 	arXiv:2211.11623, (2022). [[web]](https://arxiv.org/abs/2211.11623) [[pdf]](https://arxiv.org/pdf/2211.11623)
+#### *An early manuscript containing many detailed technical results, but lack the key concept of optimistic estimate.*
+
 ### **Embedding Principle**
 #### **Embedding Principle**: loss landscape of any DNN contains all critical points of all narrower DNNs.
 #### **[Short paper]** **Yaoyu Zhang***, Zhongwang Zhang, Tao Luo, Zhi-Qin John Xu*, Embedding Principle of Loss Landscape of Deep Neural Networks. NeurIPS 2021 spotlight. [[web]](https://arxiv.org/abs/2105.14573) [[pdf]](https://arxiv.org/pdf/2105.14573)
