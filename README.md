@@ -14,7 +14,7 @@
 #### &ensp; Supervisors: David Cai, David W. McLaughlin #
 
 ## Education
-### • Ph.D in Applied Mathematics, 2012-2016
+### • Ph.D in Mathematics, 2012-2016
 #### &ensp; School of Mathematical Sciences and Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai, China
 #### &ensp; Advisors: Douglas Zhou, David Cai
 #### &ensp; PhD thesis (in Chinese): Sampling Artifacts of Granger Causality and the Reliable Reconstruction of Neuronal Network Connectivity
