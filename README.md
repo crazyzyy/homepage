@@ -63,6 +63,7 @@
 #### *Extensively demonstrate the Frequency Principle in high-dimensional real datasets with an intuitive theoretical explanation.*
 #### **[Linear Frequency Principle]** **Yaoyu Zhang**, Tao Luo, Zheng Ma, Zhi-Qin John Xu*, Linear Frequency Principle Model to Understand the Absence of Overfitting in Neural Networks, Chinese Physics Letters (CPL) 38(3), 038701, 2021. [[web]](https://arxiv.org/abs/2102.00200) [[pdf]](https://arxiv.org/pdf/2102.00200)
 #### *Propose a linear frequency principle (LFP) model to quantitatively understand the training and generalization consequence of the Frequency Principle.*
+#### **[Overview]** Zhi-Qin John Xu*, **Yaoyu Zhang**, Tao Luo, Overview frequency principle/spectral bias in deep learning. arxiv 2201.07395 (2022) [[web]](https://arxiv.org/abs/2201.07395) [[pdf]](https://arxiv.org/pdf/2201.07395)
 
 ### Deep learning theory
 #### •	**[Implicit bias characterization]** Leyang Zhang, Zhi-Qin John Xu, Tao Luo*, **Yaoyu Zhang***, arXiv:2201.12198, (2022). [[web]](https://arxiv.org/abs/2201.12198) [[pdf]](https://arxiv.org/pdf/2201.12198)
