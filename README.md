@@ -53,6 +53,7 @@
 #### **Phase diagram**: a diagram showing the transition between linear (NTK/kernel/lazy) regime, critical (mean-field) regime or condensed regime depending on initialization hyperparameters for NNs at the infinite-width limit.
 #### **[Two-layer]** Tao Luo#, Zhi-Qin John Xu#, Zheng Ma, **Yaoyu Zhang***,  Phase diagram for two-layer ReLU neural networks at infinite-width limit, Journal of Machine Learning Research (JMLR) 22(71):1−47, (2021) [[web]](https://arxiv.org/abs/2007.07497) [[pdf]](https://arxiv.org/pdf/2007.07497)
 #### *A map for realizing different training and implicit regularization effect.*
+#### **[Three-layer]** Hanxu Zhou, Zhou Qixuan, Zhenyuan Jin, Tao Luo, **Yaoyu Zhang**, Zhi-Qin Xu*, Empirical phase diagram for three-layer neural networks with infinite width, NeurIPS 2022 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/a71c1931d3fb8ba564f7458d0657d0b1-Paper-Conference.pdf).
 
 ### **Frequency Principle (dynamics&implicit bias)**
 #### **Frequency Principle**: DNNs often learn target function from low to high frequencies. 
@@ -64,7 +65,7 @@
 #### *Propose a linear frequency principle (LFP) model to quantitatively understand the training and generalization consequence of the Frequency Principle.*
 
 ### Deep learning theory
-#### •	**[Initial condensation]** Zhi-Qin John Xu*#, Hanxu Zhou#, Tao Luo, **Yaoyu Zhang***, Towards Understanding the Condensation of Two-layer Neural Networks at Initial Training. arXiv:2105.11686, (2021) [[web]](https://arxiv.org/abs/2105.11686) [[pdf]](https://arxiv.org/pdf/2105.11686)
+#### •	**[Initial condensation]** Zhi-Qin John Xu*#, Hanxu Zhou#, Tao Luo, **Yaoyu Zhang***, Towards Understanding the Condensation of Two-layer Neural Networks at Initial Training. NeurIPS 2022 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/0f4d1fc085b7504c140e66bb26ed8842-Paper-Conference.pdf) ;arXiv:2105.11686, (2021) [[web]](https://arxiv.org/abs/2105.11686) [[pdf]](https://arxiv.org/pdf/2105.11686)
 #### •	**[DNN vs. Ritz-Galerkin]** (Alphabetic order) Jihong Wang, Zhi-Qin John Xu*, Jiwei Zhang*, **Yaoyu Zhang**, Implicit bias with Ritz-Galerkin method in understanding deep learning for solving PDEs, arXiv:2002.07989, 2020. (accepted by CSIAM Trans. Appl. Math. 2021) [[web]](https://arxiv.org/abs/2002.07989) [[pdf]](https://arxiv.org/pdf/2002.07989)
 #### •	**[F-Principle theory for general DNN]** (Alphabetic order) Tao Luo, Zheng Ma, Zhi-Qin John Xu, **Yaoyu Zhang**, Theory of the Frequency Principle for General Deep Neural Networks, CSIAM Trans. Appl. Math. 2 (2021), pp. 484-507 [[web]](https://arxiv.org/abs/1906.09235) [[pdf]](https://arxiv.org/pdf/1906.09235)
 #### •	**[Initialization effect]** **Yaoyu Zhang**, Zhi-Qin John Xu*, Tao Luo, Zheng Ma, A type of generalization error induced by initialization in deep neural networks, Mathematical and Scientific Machine Learning (MSML), 2020. [[web]](https://arxiv.org/abs/1905.07777) [[pdf]](https://arxiv.org/pdf/1905.07777)
