@@ -44,7 +44,7 @@
 #### **Embedding Principle (in width)**: loss landscape of any DNN contains all critical points of all narrower DNNs.
 #### **[Short paper]** **Yaoyu Zhang***, Zhongwang Zhang, Tao Luo, Zhi-Qin John Xu*, Embedding Principle of Loss Landscape of Deep Neural Networks. NeurIPS 2021 spotlight. [[web]](https://arxiv.org/abs/2105.14573) [[pdf]](https://arxiv.org/pdf/2105.14573)
 #### *Prove the Embedding Principle by the multi-step compositional embedding and unravel its practical implications to optimization, training&generalization and pruning.*
-#### **[Long paper]** **Yaoyu Zhang***, Yuqing Li, Zhongwang Zhang, Tao Luo, Zhi-Qin John Xu*, Embedding Principle: a hierarchical structure of loss landscape of deep neural networks. 	arXiv:2111.15527, (2021). [[web]](https://arxiv.org/abs/2111.15527) [[pdf]](https://arxiv.org/pdf/2111.15527)
+#### **[Long paper]** **Yaoyu Zhang***, Yuqing Li, Zhongwang Zhang, Tao Luo, Zhi-Qin John Xu*, Embedding Principle: a hierarchical structure of loss landscape of deep neural networks. Journal of Machine Learning, 1(1), pp. 60-113, 2022. [[web]](https://www.global-sci.org/intro/article_detail/jml/20372.html) [[pdf]](https://doc.global-sci.org/uploads/Issue/JML/v1n1/11_60.pdf?code=jgIBQOHO6qHAP%2F%2BoXwATUw%3D%3D)
 #### *Extend the results in short paper, formally define the critical embedding and discover a wider class of general compatible critical embeddings.*
 #### **[Embedding Principle in depth]** Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, **Yaoyu Zhang***, Embedding Principle in Depth for the Loss Landscape Analysis of Deep Neural Networks, 	arXiv:2205.13283, (2022). [[web]](https://arxiv.org/abs/2205.13283) [[pdf]](https://arxiv.org/pdf/2205.13283)
 #### *Establish the Embedding Principle in depth.*
