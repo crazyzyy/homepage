@@ -51,7 +51,7 @@
 
 ### **Phase diagram (dynamics)**
 #### **Phase diagram**: a diagram showing the transition between linear (NTK/kernel/lazy) regime, critical (mean-field) regime or condensed regime depending on initialization hyperparameters for NNs at the infinite-width limit.
-#### **[Two-layer]** Tao Luo#, Zhi-Qin John Xu#, Zheng Ma, **Yaoyu Zhang***,  Phase diagram for two-layer ReLU neural networks at infinite-width limit, Journal of Machine Learning Research (JMLR) 22(71):1−47, (2021) [[web]](https://arxiv.org/abs/2007.07497) [[pdf]](https://arxiv.org/pdf/2007.07497)
+#### **[Two-layer]** Tao Luo#, Zhi-Qin John Xu#, Zheng Ma, **Yaoyu Zhang***,  Phase diagram for two-layer ReLU neural networks at infinite-width limit, Journal of Machine Learning Research (JMLR) 22(71):1−47, (2021) [[web]](https://jmlr.csail.mit.edu/papers/v22/20-1123.html) [[pdf]](https://jmlr.csail.mit.edu/papers/volume22/20-1123/20-1123.pdf)
 #### *A map for realizing different training and implicit regularization effect.*
 #### **[Three-layer]** Hanxu Zhou, Zhou Qixuan, Zhenyuan Jin, Tao Luo, **Yaoyu Zhang**, Zhi-Qin Xu*, Empirical phase diagram for three-layer neural networks with infinite width, NeurIPS 2022 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/a71c1931d3fb8ba564f7458d0657d0b1-Paper-Conference.pdf).
 
