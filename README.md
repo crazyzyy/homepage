@@ -36,9 +36,12 @@
 #### **Optimistic Estimate**: estimate of the smallest possible sample size for recovering a target for nonlinear regression.
 #### **[Short paper]** **Yaoyu Zhang***, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, Optimistic Estimate Uncovers the Potential of Nonlinear Models. arXiv:2307.08921, (2023). [[web]](https://arxiv.org/abs/2307.08921) [[pdf]](https://arxiv.org/pdf/2307.08921)
 #### *A conceptual leap from long paper. Establish optimistic estimate and estimate the optimistic sample size for deep models, matrix factorization model and DNNs.*
-#### **[Long paper]** **Yaoyu Zhang***, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, Linear Stability Hypothesis and Rank Stratification for Nonlinear Models. arXiv:2211.11623, (2022). [[web]](https://arxiv.org/abs/2211.11623) [[pdf]](https://arxiv.org/pdf/2211.11623)
+#### **[initial paper]** **Yaoyu Zhang***, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, Linear Stability Hypothesis and Rank Stratification for Nonlinear Models. arXiv:2211.11623, (2022). [[web]](https://arxiv.org/abs/2211.11623) [[pdf]](https://arxiv.org/pdf/2211.11623)
 #### *An early manuscript containing many detailed technical results, but lack the key concept of optimistic estimate.*
-#### **[Local recovery guarantee at overparameterization]** Leyang Zhang, **Yaoyu Zhang**, Tao Luo, Structure and Gradient Dynamics Near Global Minima of Two-layer Neural Networks. arXiv:2309.00508, (2023). [[web]](https://arxiv.org/abs/2309.00508) [[pdf]](https://arxiv.org/pdf/2309.00508)
+#### **[Long paper]** **Yaoyu Zhang***, Leyang Zhang, Zhongwang Zhang and Zhiwei Bai, Local Linear Recovery Guarantee of Deep Neural Networks at Overparameterization. arXiv:2406.18035, (2024). [[web]](https://arxiv.org/abs/2406.18035) [[pdf]](https://arxiv.org/pdf/2406.18035)
+#### *Long paper proposing the notion of local linear recovery and providing the theoretical details of optimistic sample size estimate.*
+#### **[Local recovery]** Leyang Zhang, **Yaoyu Zhang**, Tao Luo, Structure and Gradient Dynamics Near Global Minima of Two-layer Neural Networks. arXiv:2309.00508, (2023). [[web]](https://arxiv.org/abs/2309.00508) [[pdf]](https://arxiv.org/pdf/2309.00508)
+#### *Long paper analyzing the branching geometry of global minima and providing the required sample sizes for local recovery.*
 
 ### **Embedding Principle (loss landscape)**
 #### **Embedding Principle (in width)**: loss landscape of any DNN contains all critical points of all narrower DNNs.
@@ -46,7 +49,7 @@
 #### *Prove the Embedding Principle by the multi-step compositional embedding and unravel its practical implications to optimization, training&generalization and pruning.*
 #### **[Long paper]** **Yaoyu Zhang***, Yuqing Li, Zhongwang Zhang, Tao Luo, Zhi-Qin John Xu*, Embedding Principle: a hierarchical structure of loss landscape of deep neural networks. Journal of Machine Learning, 1(1), pp. 60-113, 2022. [[web]](https://www.global-sci.org/intro/article_detail/jml/20372.html) [[pdf]](https://doc.global-sci.org/uploads/Issue/JML/v1n1/11_60.pdf?code=jgIBQOHO6qHAP%2F%2BoXwATUw%3D%3D)
 #### *Extend the results in short paper, formally define the critical embedding and discover a wider class of general compatible critical embeddings.*
-#### **[Embedding Principle in depth]** Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, **Yaoyu Zhang***, Embedding Principle in Depth for the Loss Landscape Analysis of Deep Neural Networks, 	arXiv:2205.13283, (2022). [[web]](https://arxiv.org/abs/2205.13283) [[pdf]](https://arxiv.org/pdf/2205.13283)
+#### **[Embedding Principle in depth]** Zhiwei Bai, Tao Luo, Zhi-Qin John Xu*, **Yaoyu Zhang***, Embedding Principle in Depth for the Loss Landscape Analysis of Deep Neural Networks, 	CSIAM Trans. Appl. Math., 5 (2024), pp. 350-389. arXiv:2205.13283, (2022). [[web]](https://arxiv.org/abs/2205.13283) [[pdf]](https://arxiv.org/pdf/2205.13283) 
 #### *Establish the Embedding Principle in depth.*
 
 ### **Phase diagram (dynamics)**
