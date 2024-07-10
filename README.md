@@ -31,6 +31,7 @@
 
 
 ## Publications
+#### See Google Scholar for more recent works: [[web]](https://scholar.google.com/citations?hl=en&user=ZSZ0TkIAAAAJ&view_op=list_works&sortby=pubdate)
 ### Highlights in deep learning theory
 ### **Optimistic Estimate (generalization)**
 #### **Optimistic Estimate**: estimate of the smallest possible sample size for recovering a target for nonlinear regression.
