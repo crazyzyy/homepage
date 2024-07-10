@@ -24,11 +24,9 @@
 
 ## Research Interests
 ### Deep Learning Theory
-#### •	Condensation phenomenon
-#### •	Loss landscape, generalization & training dynamics
-### Computational Neuroscience
-#### •	Robustness of cortical circuits
-
+#### •	Traning dynamics and generalization
+#### •	Loss landscape geometry
+#### •	Implicit bias
 
 ## Publications
 #### See Google Scholar for more recent works: [[web]](https://scholar.google.com/citations?hl=en&user=ZSZ0TkIAAAAJ&view_op=list_works&sortby=pubdate)
